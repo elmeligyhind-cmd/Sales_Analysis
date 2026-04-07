@@ -30,7 +30,7 @@ A dynamic tool visualizing $9.8M in sales via Pivot Tables and Slicers. It track
 * Dynamic Slicing: Users can filter the entire report by Year, Quarter, Category, and Region to find specific insights in seconds.
 
 
-🛠️ Tech Stack & Tools
+🛠️ Tech Stack & Tools:
 * Tool: Microsoft Excel (Advanced).
 * Data Modeling: Pivot Tables & Pivot Reporting.
 * Visualizations: Pivot Charts, Choropleth Maps, and Slicers for interactivity.
@@ -44,7 +44,7 @@ A dynamic tool visualizing $9.8M in sales via Pivot Tables and Slicers. It track
 * Design: Formatted the layout with a dark-mode theme and custom shapes to create a modern, app-like user interface.
 
 
-💡 Key Business Insights
+💡 Key Business Insights:
 * Profit vs. Volume: While Office Supplies sell the most units, Technology is the primary profit engine. High-volume, low-margin items (like Tables) may need a pricing strategy review.
 * Regional Focus: The West and East regions are the most mature markets. Expansion efforts should focus on scaling the South and Central regions.
 * Discount Impact: With an average discount of 16%, further analysis is recommended to see if aggressive discounting is hurting the overall 14% profit margin.
