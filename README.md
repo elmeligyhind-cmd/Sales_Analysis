@@ -43,15 +43,16 @@ A dynamic tool visualizing $9.8M in sales via Pivot Tables and Slicers. It track
 * Interactivity: Connected Slicers to multiple Pivot Charts using "Report Connections" so the whole dashboard updates with one click.
 * Design: Formatted the layout with a dark-mode theme and custom shapes to create a modern, app-like user interface.
 
-If you are looking for an analyst to help transform raw data into clear, structured insights, feel free to reach out. I am currently open to new projects :).
-* LinkedIn: https://www.linkedin.com/in/hind-elmeligy-5a31a43bb/
-* Email: elmeligyhind@gmail.com
-
 
 💡 Key Business Insights
 * Profit vs. Volume: While Office Supplies sell the most units, Technology is the primary profit engine. High-volume, low-margin items (like Tables) may need a pricing strategy review.
 * Regional Focus: The West and East regions are the most mature markets. Expansion efforts should focus on scaling the South and Central regions.
 * Discount Impact: With an average discount of 16%, further analysis is recommended to see if aggressive discounting is hurting the overall 14% profit margin.
+
+
+🤝 If you are looking for an analyst to help transform raw data into clear, structured insights, feel free to reach out. I am currently open to new projects :).
+* LinkedIn: https://www.linkedin.com/in/hind-elmeligy-5a31a43bb/
+* Email: elmeligyhind@gmail.com
 
 
 
